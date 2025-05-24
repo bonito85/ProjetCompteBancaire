@@ -20,3 +20,7 @@ Difficultés :
 	Manque de temps poour la finalisation du projet dans sa totalité et d'accompagnement dans la correction des erreurs lors du developpement
 
 
+
+
+Personne ayant participé au projet : 
+Boni Tuy Nathanaël 
